@@ -57,6 +57,8 @@ int main() {
 ##OUTPUT
 
 
+<img width="817" height="256" alt="image" src="https://github.com/user-attachments/assets/d1486d01-fd04-492f-aa11-e0464fba2f58" />
+
 
 
 
@@ -131,10 +133,10 @@ int main() {
 
 ##OUTPUT
 
+<img width="1010" height="518" alt="image" src="https://github.com/user-attachments/assets/1172932f-e4c4-4bb8-aac3-bb7376cafaf8" />
 
 
 
-![Uploading image.png…]()
 
 
 
